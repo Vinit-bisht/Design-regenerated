@@ -7,3 +7,4 @@
 5. [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/)
 6. [UI vs. UX: What’s the difference between user interface and user experience?](https://www.usertesting.com/blog/ui-vs-ux)
 7. [The Importance of Designing for Readability](https://designshack.net/articles/typography/the-importance-of-designing-for-readability/)
+8. [The state of UX in 2020](https://trends.uxdesign.cc/)
